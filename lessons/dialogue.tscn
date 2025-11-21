@@ -25,7 +25,7 @@ metadata/_custom_type_script = "uid://itdxxii7hrfw"
 [sub_resource type="Resource" id="Resource_rjbgl"]
 script = ExtResource("3_xlxck")
 choices = Array[ExtResource("5_ujubm")]([SubResource("Resource_xlxck"), SubResource("Resource_ujubm")])
-text = "Hello! Do you like basketball?"
+text = "Do you like basketball?"
 metadata/_custom_type_script = "uid://dei5f1ruqnct7"
 
 [sub_resource type="Resource" id="Resource_1f3kq"]
@@ -43,12 +43,12 @@ metadata/_custom_type_script = "uid://itdxxii7hrfw"
 [sub_resource type="Resource" id="Resource_gkm7m"]
 script = ExtResource("3_xlxck")
 choices = Array[ExtResource("5_ujubm")]([SubResource("Resource_1f3kq"), SubResource("Resource_m4u2h")])
-text = "Can we go play together?"
+text = "Can we play 1 on 1?"
 metadata/_custom_type_script = "uid://dei5f1ruqnct7"
 
 [sub_resource type="Resource" id="Resource_1m3r0"]
 script = ExtResource("3_xlxck")
-text = "Awesome!"
+text = "Awesome"
 metadata/_custom_type_script = "uid://dei5f1ruqnct7"
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_efgpg"]
